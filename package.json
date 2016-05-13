@@ -11,8 +11,8 @@
   "license": "ISC",
   "babel": {
     "presets": [
-        "es2015",
-        "react"
+      "es2015",
+      "react"
     ]
   },
   "devDependencies": {
@@ -25,6 +25,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "chance": "^1.0.3",
     "history": "^2.1.1",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
