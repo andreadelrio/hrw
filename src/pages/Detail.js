@@ -2,7 +2,7 @@ import React from 'react';
 
 class Detail extends React.Component {
   render() {
-      return <p>This is React rendering HTML!</p>;
+    return <p>This is JSX being converted to HTML!</p>;
   }
 }
 
